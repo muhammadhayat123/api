@@ -11,7 +11,7 @@ export function GET(){
         rating: 4.5,
         ratingCount: 5,
         ratingImage:"/rating.png",
-        imageUrl: '/tshirt.png', 
+        imageUrl: 'https://images.pexels.com/photos/30186077/pexels-photo-30186077/free-photo-of-stylish-man-with-tattoos-wearing-sunglasses.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1', 
       },
       {
         id: 2,
@@ -22,7 +22,7 @@ export function GET(){
         rating: 3.5,
         ratingCount: 5,
         ratingImage:"/rating.png",
-        imageUrl: '/jeans.png',
+        imageUrl: 'https://images.pexels.com/photos/30186077/pexels-photo-30186077/free-photo-of-stylish-man-with-tattoos-wearing-sunglasses.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1',
       },
       {
         id: 3,
@@ -33,7 +33,7 @@ export function GET(){
         rating: 4.5,
         ratingCount: 5,
         ratingImage:"/rating.png",
-        imageUrl: '/shirt.png',
+        imageUrl: 'https://images.pexels.com/photos/30186077/pexels-photo-30186077/free-photo-of-stylish-man-with-tattoos-wearing-sunglasses.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1',
       },
       {
         id: 4,
@@ -43,8 +43,8 @@ export function GET(){
         discount: '30%',
         rating: 4.5,
         ratingCount: 5,
-        ratingImage:"/rating.png",
-        imageUrl: '/tshirt2.png',
+        ratingImage:"/",
+        imageUrl: 'https://images.pexels.com/photos/30186077/pexels-photo-30186077/free-photo-of-stylish-man-with-tattoos-wearing-sunglasses.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1',
       },
       {
         id: 5,
@@ -55,7 +55,7 @@ export function GET(){
         rating: 5.0,
         ratingCount: 5,
         ratingImage:"/rating.png",
-        imageUrl: '/shirt2.png',
+        imageUrl: 'https://images.pexels.com/photos/30186077/pexels-photo-30186077/free-photo-of-stylish-man-with-tattoos-wearing-sunglasses.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1',
       },
       {
         id: 6,
@@ -66,7 +66,7 @@ export function GET(){
         rating: 4.5,
         ratingCount: 5,
         ratingImage:"/rating.png",
-        imageUrl: '/tshirt3.png',
+        imageUrl: 'https://images.pexels.com/photos/30186077/pexels-photo-30186077/free-photo-of-stylish-man-with-tattoos-wearing-sunglasses.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1',
       },
       {
         id: 7,
@@ -77,7 +77,7 @@ export function GET(){
         rating: 3,
         ratingCount: 5,
         ratingImage:"/rating.png",
-        imageUrl: '/shortjeans.png',
+        imageUrl: 'https://images.pexels.com/photos/30186077/pexels-photo-30186077/free-photo-of-stylish-man-with-tattoos-wearing-sunglasses.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1',
       },
       {
         id: 8,
@@ -88,7 +88,7 @@ export function GET(){
         rating: 4.5,
         ratingCount: 5,
         ratingImage:"/rating.png",
-        imageUrl: '/jeans2.png',
+        imageUrl: 'https://images.pexels.com/photos/30186077/pexels-photo-30186077/free-photo-of-stylish-man-with-tattoos-wearing-sunglasses.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1',
       },
       {
         id: 9,
@@ -99,7 +99,7 @@ export function GET(){
         rating: 4.0,
         ratingCount: 5,
         ratingImage:"/rating.png",
-        imageUrl: '/tshirt4.png',
+        imageUrl: 'https://images.pexels.com/photos/30186077/pexels-photo-30186077/free-photo-of-stylish-man-with-tattoos-wearing-sunglasses.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1',
       },
       {
         id: 10,
@@ -110,7 +110,7 @@ export function GET(){
         rating: 3.5,
         ratingCount: 5,
         ratingImage:"/rating.png",
-        imageUrl: '/tshirt5.png',
+        imageUrl: 'https://images.pexels.com/photos/1050232/pexels-photo-1050232.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1',
       },
       {
         id: 11,
@@ -121,7 +121,7 @@ export function GET(){
         rating: 4.5,
         ratingCount: 5,
         ratingImage:"/rating.png",
-        imageUrl: '/tshirt6.png',
+        imageUrl: 'https://images.pexels.com/photos/1311590/pexels-photo-1311590.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1',
       },
       {
         id: 12,
@@ -132,7 +132,7 @@ export function GET(){
         rating: 5.0,
         ratingCount: 5,
         ratingImage:"/rating.png",
-        imageUrl: '/tshirt7.png',
+        imageUrl: 'https://images.pexels.com/photos/4066293/pexels-photo-4066293.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1',
       },
   
     ],{status:200})
